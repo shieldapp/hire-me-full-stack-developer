@@ -41,10 +41,10 @@ Use these wireframes as inspiration for your app
 
 ## Career options @shieldapp
 
-See our [shieldapp.ai/careers](https://shieldapp.ai/careers) to find out more about our open positions 👋
+See our [The Hub page](https://thehub.io/startups/shield) to find out more about our open positions 👋
 
 ### Apply
 
-Once you have completed this project, you can apply for the position through [theHub job application]()
+Once you have completed this project, you can apply for the position through our [The Hub page](https://thehub.io/startups/shield)
 
 
