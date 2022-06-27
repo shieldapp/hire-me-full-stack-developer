@@ -38,6 +38,12 @@ Use these wireframes as inspiration for your app
 ### Basket page
 ![image](https://user-images.githubusercontent.com/45482255/175884893-3a948e51-856d-41d2-b171-fd2117395470.png)
 
+## ERM
+
+Create the database entities according to the provided ERM
+
+![image](https://user-images.githubusercontent.com/45482255/175925012-09513615-65ca-4621-94c3-48dace145c44.png)
+
 
 ## Career options @shieldapp
 
