@@ -36,7 +36,7 @@ Use these wireframes as inspiration for your app
 ![image](https://user-images.githubusercontent.com/22862227/140081852-0d0ca345-3903-4bb0-9595-28bd43aba9f5.png)
 
 ### Basket page
-![image](https://user-images.githubusercontent.com/22862227/140082045-68a9fee1-5c41-45d0-aa0d-48735ef85538.png)
+![image](https://user-images.githubusercontent.com/45482255/175884893-3a948e51-856d-41d2-b171-fd2117395470.png)
 
 
 ## Career options @shieldapp
